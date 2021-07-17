@@ -1,0 +1,2 @@
+Hello Giri, this is created by Node.js
+Hey, This text is appended to the existing file!!
